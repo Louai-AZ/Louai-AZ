@@ -6,6 +6,8 @@
 
 # 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Louai-Azouni) 
+[![Email](azouni.louai@gmail.com) 
+
 
 # 💻 Languages and Tools::
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

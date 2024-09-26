@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 <br>I’m passionate about data science, artificial intelligence, and the endless possibilities they offer to solve complex real-world problems.<br><br>🎓 I'm currently a final-year Data Science Engineering student at the Faculty of Sciences of Tunis, where I focus on machine learning, deep learning, and natural language processing (NLP).<br><br>🌱 Over the course of my studies and internships, I have dived deep into AI research, working on projects in fields as diverse as bioinformatics, regenerative medicine, cyber security and social media analytics. I enjoy applying my skills to new domains, exploring the impact AI can have on different industries.<br><br>💼 I’m always looking to collaborate on innovative projects, whether it's developing AI applications, optimizing data workflows, or researching new trends in machine learning and NLP. I believe in the power of AI to transform industries, and I’m excited to be part of that journey.
-<br><br>📫 How to reach me: You can connect with me via LinkedIn Louai-Azouni or email me at azouni.louai@gmail.com. I'm always open to discussing new opportunities and potential collaborations in the realms of AI and data science.
+<br><br>📫 I'm always open to discussing new opportunities and potential collaborations in the realms of AI and data science.
 
 # 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Louai-Azouni) 
